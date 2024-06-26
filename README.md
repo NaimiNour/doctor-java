@@ -88,7 +88,7 @@ Une fois l'application lancée, vous serez accueilli par l'écran de connexion. 
 - **Menu** : Vue d'ensemble des opérations du jour.
 - **Gestion des Patients** : Ajouter, modifier et supprimer.
 - **Rendez-vous** : Gérer les rendez-vous des patients.
-- **Statiqtiques** : Nombres de patients, RDV jour j, patients dans la salle d'attente, consultations...
+- **Statistiques** : Nombres de patients, RDV jour j, patients dans la salle d'attente, consultations...
 
 ## Captures d'Écran
 
