@@ -19,7 +19,7 @@ Bienvenue dans le projet Logiciel de Gestion de Cabinet Médical ! Ce projet est
 
 ## Introduction
 
-Le Logiciel de Gestion de Cabinet Médical est conçu pour faciliter la gestion quotidienne d'un cabinet médical. Il permet de gérer les patients, les rendez-vous, les dossiers médicaux, la facturation, et bien plus encore.
+Le Logiciel de Gestion de Cabinet Médical est conçu pour faciliter la gestion quotidienne d'un cabinet médical. Il permet de gérer les patients, les rendez-vous, les dossiers médicaux, et bien plus encore.
 
 ## Fonctionnalités
 
