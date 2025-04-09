@@ -1,7 +1,3 @@
-Sure! Here's a draft README for your medical office management software project using NetBeans and Java:
-
----
-
 # Logiciel de Gestion de Cabinet Médical
 
 Bienvenue dans le projet Logiciel de Gestion de Cabinet Médical ! Ce projet est une application de bureau développée en Java avec NetBeans pour gérer efficacement les opérations d'un cabinet médical.
